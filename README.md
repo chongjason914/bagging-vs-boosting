@@ -33,4 +33,4 @@ In summary, gradient boosting:
 - Have a long fit time but a short predict time
 
 ## Medium article
-For more a detailed explanation on this topic, check out the full article on Medium [here]().
+For more a detailed explanation on this topic, check out the full article on Towards Data Science [here](https://towardsdatascience.com/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7).
