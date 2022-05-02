@@ -2,7 +2,7 @@
 
 ## Introduction
 This repository aims to explore the difference between two ensemble methods: bagging (random forest) and boosting (gradient 
-boosting) using the Kaggle Titanic [dataset](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ftitanic). 
+boosting). 
 
 Ensemble methods involve aggregating multiple machine learning models with the aim of decreasing both bias and variance. Ideally,
 the result from an ensemble method will be better than any individual machine learning model. 
